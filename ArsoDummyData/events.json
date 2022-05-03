@@ -1,0 +1,63 @@
+[
+    {
+      "Speaker name" : "Brian Muindi",
+      "topic" : "creditcard",
+      "Country" : "Kenya",
+      "Event Date" : "31/Dec",
+      "cardBackground": "null",
+      "bgColor": "kjenuscardColor",
+      "firstColor" : "kgreyColor",
+      "secondColor": "kablackColor"
+    },
+    {
+      "Speaker name" : "Brian Muindi",
+      "topic" : "creditcard",
+      "Country" : "UK",
+      "Event Date" : "31/Dec",
+      "cardBackground": "null",
+      "bgColor": "kjenuscardColor",
+      "firstColor" : "kgreyColor",
+      "secondColor": "kablackColor"
+    },
+    {
+      "Speaker name" : "Brian Muindi",
+      "topic" : "creditcard",
+      "Country" : "USA",
+      "Event Date" : "31/Dec",
+      "cardBackground": "null",
+      "bgColor": "kjenuscardColor",
+      "firstColor" : "kgreyColor",
+      "secondColor": "kablackColor"
+    },
+    {
+      "Speaker name" : "Brian Muindi",
+      "topic" : "creditcard",
+      "Country" : "South Africa",
+      "Event Date" : "31/Dec",
+      "cardBackground": "null",
+      "bgColor": "kjenuscardColor",
+      "firstColor" : "kgreyColor",
+      "secondColor": "kablackColor"
+    },
+    {
+      "Speaker name" : "Brian Muindi",
+      "topic" : "creditcard",
+      "Country" : "Nigeria",
+      "Event Date" : "31/Dec",
+      "cardBackground": "null",
+      "bgColor": "kjenuscardColor",
+      "firstColor" : "kgreyColor",
+      "secondColor": "kablackColor"
+    },
+    {
+      "Speaker name" : "Brian Muindi",
+      "topic" : "creditcard",
+      "Country" : "Egypt",
+      "Event Date" : "31/Dec",
+      "cardBackground": "null",
+      "bgColor": "kjenuscardColor",
+      "firstColor" : "kgreyColor",
+      "secondColor": "kablackColor"
+    }
+  ]
+  

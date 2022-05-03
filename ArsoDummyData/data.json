@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Brian Muindi",
+        "position": "IT CTO",
+        "country": "Kenya",
+        "age":26,
+        "image_url":"profile pic"
+
+    },
+    {
+        "name": "Kyalo Muindi",
+        "position": "IT Officer",
+        "country": "Tanzania",
+        "age":26,
+        "image_url":"profile pic"
+
+    },
+    {
+        "name": "Justus Muindi",
+        "position": "Doctor",
+        "country": "USA",
+        "age":26,
+        "image_url":"profile pic"
+
+    },
+    {
+        "name": "Brian Kyalo",
+        "position": "Software Developer",
+        "country": "Kenya",
+        "age":26,
+        "image_url":"profile pic"
+
+    },
+    {
+        "name": "Brian Justus",
+        "position": "Cyber Security",
+        "country": "South Africa",
+        "age":26,
+        "image_url":"profile pic"
+
+    },
+    {
+        "name": "Brian Gaucho",
+        "position": "Data Analyst",
+        "country": "Kenya",
+        "age":26,
+        "image_url":"profile pic"
+
+    }
+
+]
